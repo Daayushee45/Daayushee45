@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hey, I'm Aayushee Dhanokar ✨
 
-<!--
-**Daayushee45/Daayushee45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst 📊 | Advancing in Data & Intelligence 📈 | Passionate About Clarity 💡
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Python, SQL, Power BI, Tableau, Excel  
+- Data Cleaning · EDA · Data Visualization  
+- Pandas · NumPy · Scikit-learn  
+
+---
+
+## 🙂 About Me
+- 🔍 Building my skills in Business Intelligence and Machine Learning  
+- 📊 Enjoy hands-on data and BI projects  
+- 💡 Curious, detail-oriented, and focused on problem-solving  
+- ✉️ Connect with me on [LinkedIn](https://www.linkedin.com/in/aayushee-dhanokar-95733b267) or [Email](daayushee11@gmail.com)
+
+---
+
+## 🖊️ Designed by
+- [@AayusheeDhanokar](https://github.com/Daayushee45)
